@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=hotel_management
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=void\ input()
+comment3.params=
+comment3.target=void\ roomBook()
+comment4.params=A
+comment4.target=boolean[]\ randomFiller(boolean[])
+comment5.params=
+comment5.target=void\ registration()
+comment6.params=
+comment6.target=void\ billcalc()
+comment7.params=n
+comment7.target=void\ display(int)
+numComments=8

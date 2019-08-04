@@ -1,0 +1,3 @@
+India
+Manish Kumar Singh
+This is buffered writing to file and reading from a file.
